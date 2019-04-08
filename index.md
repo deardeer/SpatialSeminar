@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Seminar 2019 in Spatial Lab
 
 You can use the [editor on GitHub](https://github.com/deardeer/SpatialSeminar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
