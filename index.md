@@ -1,5 +1,30 @@
 ## Welcome to Seminar 2019 in Spatial Lab
 
+Seminar 2019 will be held on **Friday 10:00am** in the 1402 meeting room every week. 
+Everyone is welcomed to join :)!
+
+### Protocol
+1. 每个人
+
+### Agenda
+- **The Research Tool I Recommend**
+
+  Participant shares one favorite/powerful research tool, e.g., literature manager, VPN, research websites, etc.
+  
+- **My Research Keywords**
+
+  Participant give three keywords to introduce research, with the objective to trigger research communication and cooperation.
+  
+- 
+
+### Followup
+
+
+### Repository
+
+TBA
+
+
 You can use the [editor on GitHub](https://github.com/deardeer/SpatialSeminar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
