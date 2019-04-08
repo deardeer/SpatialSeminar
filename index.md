@@ -4,13 +4,18 @@
 
 ## 最新咨询
 
-**主题**：学术版图 **主持人**：陆旻
+**主题**：我的科研关键词
+
+**主持人**：陆旻
 
 **时间**：2019-10-12 上午10:00
 
 **地点**：科技楼1402会议室
 
-**简介**：
+**简介**：本次研讨会，我们首先邀请几位新进实验室的博士做简短的工作介绍；
+然后邀请在场的每一位参与者用3个关键词来概括自己的研究方向，拼合实验室的学术版图。
+。旨在增强实验室成员对彼此研究内容的了解，对实验室研究内容有宏观的认识，
+以促进学术交流与合作，碰撞不一样的火花。
 
 
 # 如果你想主持一次研讨会
@@ -22,16 +27,18 @@
 
 # 候选主题
 
+- **未来城市**
+  
+  简介：
+
 - **我最爱的科研工具**
 
   简介：相互分享最得力的科研工具，文献管理软件？科学上网？ literature manager, VPN, research websites, etc.
   
 - **我的科研关键词**
 
-  Participant give three keywords to introduce research, with the objective to trigger research communication and cooperation.
+  简介：Participant give three keywords to introduce research, with the objective to trigger research communication and cooperation.
   
-- **未来城市**
-
 # 往届研讨会集锦
 
 待添加
