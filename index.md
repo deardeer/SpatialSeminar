@@ -27,6 +27,7 @@
 - 李敏敏 《基于客运班次大数据的交通网络连接价值评价方法》
 - 张杰 《Agriculture & Environment - Work for a sustainable world》
 - 刘会增《海洋水色遥感大气校正与水质参数反演》
+- 黄金彩 《》
 - 马威
 
 
