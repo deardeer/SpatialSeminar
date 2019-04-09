@@ -22,6 +22,7 @@
 - 熊思婷 《real-time and object based PS-InSAR for monitoring land surface displacements》
 - 王作敏《水体叶绿素a和悬浮物浓度的遥感反演方法研究》
 - 郭锴《机载激光测深原理与关键技术》
+- 熊智敏《大型引水隧道表面病害检测技术研究》
 - 潘天鹭《交通管理策略的联合动态优化》
 - 李敏敏 《基于客运班次大数据的交通网络连接价值评价方法》
 - 于溪 《大湾区的公共服务均等性评价》
