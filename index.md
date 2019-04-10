@@ -20,15 +20,15 @@
 每位讲者演讲时长：3－5分钟
 
 - 熊思婷 《real-time and object based PS-InSAR for monitoring land surface displacements》
-- 王作敏《水体叶绿素a和悬浮物浓度的遥感反演方法研究》
 - 郭锴《机载激光测深原理与关键技术》
-- 熊智敏《大型引水隧道表面病害检测技术研究》
+- 马威 《全息位置地图与室内增强现实可视化》
 - 潘天鹭《交通管理策略的联合动态优化》
 - 李敏敏 《基于客运班次大数据的交通网络连接价值评价方法》
-- 张杰 《Agriculture & Environment - Work for a sustainable world》
-- 刘会增《海洋水色遥感大气校正与水质参数反演》
 - 黄金彩 《多源出行大数据融合的道路网结构建模及拥堵识别》
-- 马威 《全息位置地图与室内增强现实可视化》
+- 王作敏《水体叶绿素a和悬浮物浓度的遥感反演方法研究》
+- 刘会增《海洋水色遥感大气校正与水质参数反演》
+- 熊智敏《大型引水隧道表面病害检测技术研究》
+- 张杰 《Agriculture & Environment - Work for a sustainable world》
 
 
 # 如果你想主持一次研讨会
