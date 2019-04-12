@@ -53,6 +53,7 @@
 
 <img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_1.jpg" height="250">
 
+邀请bao
 - 熊思婷 《real-time and object based PS-InSAR for monitoring land surface displacements》
 - 郭锴《机载激光测深原理与关键技术》
 - 马威 《全息位置地图与室内增强现实可视化》
