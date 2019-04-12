@@ -40,8 +40,9 @@
 
 2019年04月17日上午10:00，我们在科技楼9楼905会议室开展了
 第一次研讨会。 本次研讨会中，我们邀请了10位新进实验室的博士做简短的工作介绍。
-10位博士分别来自精密测量、生态环境监测、交通分析以及城市与大数据等多个方向，报告内容充实精彩，现场听众也从多种新鲜的角度，
-进行了探讨。
+10位博士分别来自精密测量、生态环境监测、交通分析以及城市与大数据等多个方向。
+
+报告内容充实精彩，现场听众也从多种新鲜的角度，进行了探讨。
 
 - 熊思婷 《real-time and object based PS-InSAR for monitoring land surface displacements》
 - 郭锴《机载激光测深原理与关键技术》
@@ -58,6 +59,6 @@
 通过本次研讨会，实验室成员对彼此研究内容有了进一步的了解，对实验室研究方向建立宏观认识，建立了科研兴趣小组，
 相信可以为更多的学术交流，做出精彩的工作有所帮助。
 
-<img src="https://github.com/vizgroup/DynamicEffect/blob/master/rc/marchingant.png" height="300">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/3191555033174_.pic.jpg" height="200">
 
 
