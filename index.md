@@ -59,6 +59,10 @@
 - 刘会增《海洋水色遥感大气校正与水质参数反演》
 - 熊智敏《大型引水隧道表面病害检测技术研究》
 - 张杰 《Agriculture & Environment - Work for a sustainable world》
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_2.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_3.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_4.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_5.jpg" height="250">
 
 
 
