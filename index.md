@@ -63,7 +63,7 @@
 
 相信通过本次研讨会，实验室成员对彼此研究内容有了进一步的了解，对实验室研究方向建立宏观认识，对更多的学术交流，做出精彩的工作有所帮助。
 
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_1.jpg" height="250">
+<img url="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_1.jpg" height="250">
 
 - 熊思婷 《real-time and object based PS-InSAR for monitoring land surface displacements》
 - 郭锴《机载激光测深原理与关键技术》
@@ -76,10 +76,10 @@
 - 熊智敏《大型引水隧道表面病害检测技术研究》
 - 张杰 《Agriculture & Environment - Work for a sustainable world》
 
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_2.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_3.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_4.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_5.jpg" height="250">
+<img url="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_2.jpg" height="250">
+<img url="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_3.jpg" height="250">
+<img url="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_4.jpg" height="250">
+<img url="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190410_5.jpg" height="250">
 
 
 
