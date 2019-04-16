@@ -27,7 +27,7 @@
 - 胡忠文 《尺度集遥感影像分析》
 - 石铁柱 《Soil Organic Carbon Content Estimation with Laboratory-Based Visible‐Near-Infrared Reflectance Spectroscopy: Feature Selection》
 - 陆旻《Data Physicalization & Tangible CityScape》
-- 方旭《》
+- 方旭《VINS-MONO：一种鲁棒、通用的单目视觉惯性状态估计器》
 - 管明雷 《船载水岸一体测量技术在码头改造工程中创新应用》
 
 # 如果你想主持一次研讨会
