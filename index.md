@@ -24,8 +24,8 @@
 
 **邀请讲者**
 
+- 胡忠文 《尺度集遥感影像分析》
 - 石铁柱 《Soil Organic Carbon Content Estimation with Laboratory-Based Visible‐Near-Infrared Reflectance Spectroscopy: Feature Selection》
-- 胡忠文 《》
 - 陆旻《Data Physicalization & Tangible CityScape》
 - 方旭《》
 - 管明雷 《船载水岸一体测量技术在码头改造工程中创新应用》
