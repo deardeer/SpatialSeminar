@@ -52,12 +52,11 @@
 于溪；Pajek 社会网络分析软件与 bcompare 软件 ； 
 蓝玉良: 城市微气候模拟ENVI-met软件介绍。
 
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_1.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_2.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_3.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_4.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_5.jpg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_6.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_1.jpeg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_2.jpeg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_3.jpeg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_4.jpeg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_5.jpeg" height="250">
 
 ### Seminar-2: 我最想分享的一篇学术论文
 
