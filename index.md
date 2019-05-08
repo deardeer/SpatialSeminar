@@ -46,7 +46,7 @@
 
 ### Seminar-3: 我研究工作中最得力的软件/算法/仪器
 
-本期5月8日的邀请了一位老师，五位博后与一位研究助理，就“在我研究工作中最得力的软件/算法/仪器”议题，做出了精彩的科研分享报告。 （从本期开始，组委会开始邀请建规院其他实验室的老师和学生参与分享会）  分享内容涉及交通仿真平台、数据分析软件、激光扫描工具、 环境模拟软件和国外交流见闻等。嘉宾从自身研究体验出发，讲述了以上软硬件的性能、特点、优势、适用场景和局限性。  精彩的内容引发了听众极大的兴趣和热烈讨论。 相信这次讨论可以增进跨学科的研究者们之间的了解， 激发相近学科研究者之间的合作意图。
+本期5月8日的邀请了一位老师，五位博后与一位研究助理，就“在我研究工作中最得力的软件/算法/仪器”议题，做出了精彩的科研分享报告，由潘天鹭博士主持。 （从本期开始，组委会开始邀请建规院其他实验室的老师和学生参与分享会）  分享内容涉及交通仿真平台、数据分析软件、激光扫描工具、 环境模拟软件和国外交流见闻等。嘉宾从自身研究体验出发，讲述了以上软硬件的性能、特点、优势、适用场景和局限性。  精彩的内容引发了听众极大的兴趣和热烈讨论。 相信这次讨论可以增进跨学科的研究者们之间的了解， 激发相近学科研究者之间的合作意图。
 
 郑晔： 智能交通仿真软件Sumo介绍；
 涂伟：MIT 见闻与体会；
@@ -59,6 +59,9 @@
 <img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_1.jpg" height="250">
 <img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_2.jpg" height="250">
 <img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_3.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_4.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_5.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190508_6.jpg" height="250">
 
 ### Seminar-2: 我最想分享的一篇学术论文
 
