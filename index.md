@@ -43,7 +43,7 @@
 
 <img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190522.jpeg" height="250">
 
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190522_2.jpeg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190522_02.jpeg" height="250">
 
 ### Seminar-4: 
 
