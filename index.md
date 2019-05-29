@@ -41,6 +41,10 @@
 - 陈智鹏《复杂环境精密移动测量》
 - 潘天鹭《智能网联汽车体系框架与发展现状》
 
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190522.jpeg" height="250">
+
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190522_2.jpeg" height="250">
+
 ### Seminar-4: 
 
 本期我们延续上周的主题“在我研究工作中最得力的软件/仪器”，邀请了汤圣君和张莹博士为分享他们使用的科研硬件和Tableau数据分析软件。汤博士向大家介绍了无人机在三维场景建模方面的使用经验和应用案例，张博士分享了自己在使用可视分析软件Tableau方面的心得和收获。讲者与现场听众之间进行了热烈讨论。
