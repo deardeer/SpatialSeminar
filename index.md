@@ -42,8 +42,8 @@
 
 - 杨超《遥感技术在生态环境监测与治理中的系列应用研究》
 
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190529_1.jpeg" height="250">
-<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190529_2.jpeg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190529_1.jpg" height="250">
+<img src="https://github.com/deardeer/SpatialSeminar/blob/master/rc/20190529_2.jpg" height="250">
 
 ### Seminar-5: 
 
